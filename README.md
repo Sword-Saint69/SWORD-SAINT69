@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [AI TRADING BOT](https://github.com/SWORD-SAINT69/ESCAPE-THE-MATRIX)<br><br>- 🌱 I’m currently learning **GIT AND DOCKER**<br><br>- 🤝 I’m looking for help with **Django and PHP**<br><br>- 💬 Ask me about **C++,PYTHON,REACT,KUBERNETES**<br><br>- 📫 How to reach me **gouthamsankar@aol.com**<br><br>- 📄 Know about my experiences [1st year engineering @ college of engineering and management punnapra](1st year engineering @ college of engineering and management punnapra)<br><br>- ⚡ Instagram **@gouth.ampvtt**
+- 🔭 I’m currently working on [AI TRADING BOT](https://github.com/SWORD-SAINT69/ESCAPE-THE-MATRIX)<br><br>- 🌱 I’m currently learning **DOCKER**<br><br>- 🤝 I’m looking for help with **Django and PHP**<br><br>- 💬 Ask me about **C++,PYTHON,REACT,KUBERNETES**<br><br>- 📫 How to reach me **gouthamsankar@aol.com**<br><br>- 📄 Know about my experiences [1st year engineering @ college of engineering and management punnapra](1st year engineering @ college of engineering and management punnapra)<br><br>- ⚡ Instagram **@gouth.ampvtt**
 
 
 ## 🌐 Socials:
