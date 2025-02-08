@@ -6,7 +6,7 @@
 ### <div align="center">HI I'M GOUTHAM SANKAR JL
 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
-I am a passionate DevOps Engineer with [X years] of experience in designing, implementing, and managing scalable, secure, and efficient CI/CD pipelines, cloud infrastructures, and automation frameworks. My expertise lies in bridging the gap between development and operations by fostering collaboration, streamlining workflows, and leveraging cutting-edge tools and technologies.
+I am a passionate DevOps Engineer with  experiencing in designing, implementing, and managing scalable, secure, and efficient CI/CD pipelines, cloud infrastructures, and automation frameworks. My expertise lies in bridging the gap between development and operations by fostering collaboration, streamlining workflows, and leveraging cutting-edge tools and technologies.
 
 With hands-on experience in cloud platforms such as AWS, Azure, and Google Cloud, I specialize in Infrastructure as Code (IaC), containerization (Docker, Kubernetes), and automating deployments using Jenkins, GitLab CI/CD, and GitHub Actions. I’m also skilled in monitoring, observability, and ensuring high availability through tools like Prometheus, Grafana, and ELK Stack.
 
