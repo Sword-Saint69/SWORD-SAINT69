@@ -12,8 +12,7 @@ With hands-on experience in cloud platforms such as AWS, Azure, and Google Cloud
 
 My goal is to empower teams to deliver high-quality software faster and more reliably while maintaining robust security and scalability. I thrive in dynamic environments where innovation meets execution, and I’m always eager to explore new technologies that drive efficiency and business value.
 
-When I’m not coding or automating, you can find me [insert personal interests, e.g., "exploring open-source projects, hiking, or mentoring aspiring engineers"].
-
+When I’m not coding or automating, you can find me 
 Let’s connect and build something amazing together!</div>  
   
 
